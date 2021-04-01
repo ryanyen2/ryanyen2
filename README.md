@@ -1,6 +1,6 @@
 <h1 align="center">This is ryanyen2</h1>
 <h3 align="center">Startup/ Develop/ Unicorn 🦄</h3>
-<img align="right" src='https://i.pinimg.com/originals/3e/7a/b1/3e7ab14520d55d6ed17faf7cad0b2927.gif' width=100/>
+<img align="right" src='https://i.pinimg.com/originals/3e/7a/b1/3e7ab14520d55d6ed17faf7cad0b2927.gif' width=200/>
 
 ### About Me
 
